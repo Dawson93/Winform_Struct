@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\C#\\Project 251108\\WinForm_Struct\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E4B65AB3-5157-4943-A022-1698C547EA64}|WinForm_Struct.csproj|d:\\c#\\project 251108\\winform_struct\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B65AB3-5157-4943-A022-1698C547EA64}|WinForm_Struct.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B65AB3-5157-4943-A022-1698C547EA64}|WinForm_Struct.csproj|d:\\c#\\project 251108\\winform_struct\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B65AB3-5157-4943-A022-1698C547EA64}|WinForm_Struct.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E4B65AB3-5157-4943-A022-1698C547EA64}|WinForm_Struct.csproj|d:\\c#\\project 251108\\winform_struct\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E4B65AB3-5157-4943-A022-1698C547EA64}|WinForm_Struct.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -14,11 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\C#\\Project 251108\\WinForm_Struct\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\C#\\Project 251108\\WinForm_Struct\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA2wEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T08:01:29.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#\\Project 251108\\WinForm_Struct\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\C#\\Project 251108\\WinForm_Struct\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowF4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T08:00:51.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "D:\\C#\\Project 251108\\WinForm_Struct\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
